@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">CV Mobile App</string>
     <string name="next">Siguiente</string>
+
+    <string name="experience_text">Experience</string>
+    <string name="background_text">Background</string>
+    <string name="interest_text">Interest</string>
+    <string name="portfolio_text">Portfolio</string>
+
+
 </resources>
